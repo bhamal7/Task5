@@ -5,3 +5,6 @@ try:
         raise ValueError()
 except ValueError:
     print("The length is too short/long !!! Please provide only four digits.")
+
+    #
+    print("hi")
